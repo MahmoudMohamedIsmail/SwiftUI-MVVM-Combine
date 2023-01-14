@@ -2,4 +2,4 @@
 ## About
 A template project that uses SwiftUI for UI, Combine for event handling, MVVM for software architecture.
 ## Demo
-![](Demo/Demo.mp4)
+![](SwiftUI-MVVM-Combine/Demo/Demo.mp4)
