@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct SwiftUI_MVVM_CombineApp: App {
+    
+    private let viewModel = HomeViewModel()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView(viewModel: viewModel)
         }
     }
+    
 }
