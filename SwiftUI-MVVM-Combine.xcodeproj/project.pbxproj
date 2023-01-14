@@ -72,6 +72,7 @@
 		792F720E2972F3430086A447 /* HomeRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeRepository.swift; sourceTree = "<group>"; };
 		792F72102972F6550086A447 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 		792F721329730C0F0086A447 /* BaseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewModel.swift; sourceTree = "<group>"; };
+		792F7216297333FE0086A447 /* Simulator Screen Recording - iPhone 13 Pro Max - 2023-01-14 at 20.54.19.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Simulator Screen Recording - iPhone 13 Pro Max - 2023-01-14 at 20.54.19.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +123,7 @@
 		792F7177297250840086A447 /* SwiftUI-MVVM-Combine */ = {
 			isa = PBXGroup;
 			children = (
+				792F7215297333B10086A447 /* Demo */,
 				792F721229730BF00086A447 /* Core */,
 				792F71A2297251A10086A447 /* Modules */,
 				792F71DA2972DEB30086A447 /* Data */,
@@ -303,6 +305,14 @@
 				792F721329730C0F0086A447 /* BaseViewModel.swift */,
 			);
 			path = Core;
+			sourceTree = "<group>";
+		};
+		792F7215297333B10086A447 /* Demo */ = {
+			isa = PBXGroup;
+			children = (
+				792F7216297333FE0086A447 /* Simulator Screen Recording - iPhone 13 Pro Max - 2023-01-14 at 20.54.19.mp4 */,
+			);
+			path = Demo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
