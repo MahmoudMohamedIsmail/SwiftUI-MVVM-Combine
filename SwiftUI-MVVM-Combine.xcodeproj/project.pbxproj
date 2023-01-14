@@ -28,6 +28,7 @@
 		792F720F2972F3430086A447 /* HomeRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792F720E2972F3430086A447 /* HomeRepository.swift */; };
 		792F72112972F6550086A447 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792F72102972F6550086A447 /* HomeViewModel.swift */; };
 		792F721429730C0F0086A447 /* BaseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792F721329730C0F0086A447 /* BaseViewModel.swift */; };
+		792F7218297337610086A447 /* Demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 792F7217297337610086A447 /* Demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,7 +73,7 @@
 		792F720E2972F3430086A447 /* HomeRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeRepository.swift; sourceTree = "<group>"; };
 		792F72102972F6550086A447 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 		792F721329730C0F0086A447 /* BaseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewModel.swift; sourceTree = "<group>"; };
-		792F7216297333FE0086A447 /* Simulator Screen Recording - iPhone 13 Pro Max - 2023-01-14 at 20.54.19.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Simulator Screen Recording - iPhone 13 Pro Max - 2023-01-14 at 20.54.19.mp4"; sourceTree = "<group>"; };
+		792F7217297337610086A447 /* Demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -310,7 +311,7 @@
 		792F7215297333B10086A447 /* Demo */ = {
 			isa = PBXGroup;
 			children = (
-				792F7216297333FE0086A447 /* Simulator Screen Recording - iPhone 13 Pro Max - 2023-01-14 at 20.54.19.mp4 */,
+				792F7217297337610086A447 /* Demo.gif */,
 			);
 			path = Demo;
 			sourceTree = "<group>";
@@ -420,6 +421,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				792F7180297250850086A447 /* Preview Assets.xcassets in Resources */,
+				792F7218297337610086A447 /* Demo.gif in Resources */,
 				792F717D297250850086A447 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
